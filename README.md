@@ -8,7 +8,7 @@
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 
-I deployed the MHN by following the milestone instructions and commands given to help me follow through completing the assignment. I used GCloud for the processes and running through VMs in my terminal. 
+I deployed the MHN by following the milestone instructions and commands given to help me follow through completing the assignment. I used GCloud for the processes and running through VMs in my terminal. I was able to use the gcloud sdk to depoly the Ubuntu Dionaea w/ HTTP honeypot.
 
 ![alt text](<img width="535" alt="Screen Shot 2021-12-13 at 11 11 16 PM" src="https://user-images.githubusercontent.com/89497026/145954403-b0b22d3d-9435-46b6-b00c-bed08c0c010f.png">
 )
@@ -20,7 +20,7 @@ I deployed the MHN by following the milestone instructions and commands given to
 ### Dionaea Honeypot Deployment (Required)
 
 **Summary:** Briefly in your own words, what does dionaea do?
-In my own words, I would say that dionaea since being a script is copying the malware and being able to capture and expose vulnerabilities through running networks against it.  
+In my own words, I would say that dionaea since being a script is copying the malware and being able to capture and expose vulnerabilities through running networks against it.  I was able to run mine only for abut 10 minutes due to a tine crunch and was able to get 7 attacks off the bat that I then observed in the below screenshots.
 
 
 ![alt text](<img width="490" alt="Screen Shot 2021-12-13 at 10 42 02 PM" src="https://user-images.githubusercontent.com/89497026/145954260-68d84854-221e-4820-919c-9569997f75c5.png">
